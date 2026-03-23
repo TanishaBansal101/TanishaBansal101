@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishabansal101&label=Profile%20views&color=0e75b6&style=flat" alt="tanishabansal101" /> </p>
 
-- 🌱 I’m currently learning **next.js**
+- 🌱 I’m currently learning **Spring Boot**
 - 📫 How to reach me **bansaltanisha101@gmail.com**
 
 
