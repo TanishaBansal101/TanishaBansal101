@@ -4,11 +4,11 @@
 <h1 align="center">Hi 👋, I'm Tanisha Bansal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/37abae1350fe3344aebaaebfba4227dfa1ee6e8cf55efed02329fbe00dbf63c1/68747470733a2f2f6d656469612e74656e6f722e636f6d2f696d616765732f37646234656161336534373237326338653538656530313866633339306237642f74656e6f722e676966">
+<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishabansal101&label=Profile%20views&color=0e75b6&style=flat" alt="tanishabansal101" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **System Design**
 - 📫 How to reach me **bansaltanisha101@gmail.com**
 
 
