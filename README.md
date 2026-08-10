@@ -1,10 +1,8 @@
-<img align="mid-center" alt="coding" width="900" src="https://camo.githubusercontent.com/8975dd49a0172ee81280dfa659a7572f2bf2d9fd008eb29c067825b3aa6a8e40/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966">
+
 
 
 <h1 align="center">Hi 👋, I'm Tanisha Bansal</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="340" src="https://camo.githubusercontent.com/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishabansal101&label=Profile%20views&color=0e75b6&style=flat" alt="tanishabansal101" /> </p>
 
